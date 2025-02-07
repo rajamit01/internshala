@@ -1,3 +1,0 @@
-# internshala
-project
-
